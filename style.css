@@ -11,7 +11,7 @@
 input{
     height: 40px;
     /* width: 155px; */
-    width: 100%;
+    width: 98.5%;
     border-radius: 10px;
     border: none;
     border: 1px solid black;
@@ -87,5 +87,5 @@ h1{
     width: 48%;
  }
  #clr{
-    width: 100%;
+    width: 98%;
  }
