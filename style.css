@@ -11,13 +11,14 @@
 input{
     height: 60px;
     /* width: 155px; */
-    width: 97.5%;
+    width: 97.2%;
+    
     border-radius: 10px;
     border: none;
     border: 1px solid black;
     text-transform: capitalize;
     padding-left: 10px;
-    margin: 3px;
+    margin: 4px;
     border: 1px solid wheat;
     box-shadow: 0px 1px 4px aqua;
     font-size: 17px;
@@ -34,7 +35,7 @@ button{
     text-transform: capitalize;
     padding-left: 5px;
     padding-right: 5px;
-    margin: 3px;
+    margin: 4px;
     border: 1px solid wheat;
     box-shadow: 0px 1px 4px aqua;
     cursor: pointer;
@@ -66,7 +67,7 @@ h1{
     width: 100%;
     border: 1px solid rgb(188, 167, 167);
     text-align: center;
-    border-radius: 10px;
+   
     border-bottom-left-radius: 20px;
     border-bottom-right-radius: 20px;
     background-color: rgb(223, 211, 195);
@@ -77,25 +78,25 @@ h1{
 
 
  #add{
-    width: 48.6%;
+    width: 47.5%;
  }
  #sub{
-    width: 48%;
+    width: 47.5%;
  }
  #mul{
-    width: 48.6%;
+    width: 47.5%;
  }
  #sqad{
-    width: 48%;
+    width: 47.5%;
  }
  #cbad{
-    width: 48.6%;
+    width: 47.5%;
  }
  #di{
-    width: 48%;
+    width: 47.5%;
  }
  #clr{
-    width: 97.4%;
+    width: 97.2%;
  }
  #data1{
     font-size: 30px;
