@@ -12,14 +12,12 @@ input{
     height: 60px;
     /* width: 155px; */
     width: 96%;
-    
     border-radius: 10px;
     border: none;
     border: 1px solid black;
-    text-transform: capitalize;
     padding-left: 10px;
     margin: 4px;
-    margin-top: 6px;
+    margin-bottom: 6px;
     border: 1px solid wheat;
     box-shadow: 0px 1px 4px aqua;
     font-size: 17px;
@@ -33,7 +31,6 @@ button{
     border-radius:10px;
     border: none;
     border: 1px solid black;
-    text-transform: capitalize;
     padding-left: 5px;
     padding-right: 5px;
     margin: 4px;
@@ -46,7 +43,7 @@ button{
    
 }
 button:hover{
-    background-color: white;
+    background-color: rgb(246, 253, 250);
 }
 .clr{
     height: 70px;
@@ -68,15 +65,13 @@ h1{
  .div2{
     height: 100%;
     /* width: 180px; */
-
     width: 100%;
     border: 1px solid rgb(188, 167, 167);
     text-align: center;
-   
     border-bottom-left-radius: 20px;
     border-bottom-right-radius: 20px;
     background-color: white;
-    border: 2px solid red;
+    border: 3px solid red;
     border-bottom: 10px solid red;
     box-shadow: 0px 3px 10px rgb(0, 255, 255);
  }
